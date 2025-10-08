@@ -64,6 +64,7 @@ namespace GeneralTestApp
                             if (!Temp_Jid.Trim().Equals(Journal.Trim(), StringComparison.OrdinalIgnoreCase))
                             {
                                 ErrString += "Journal Name not matching In Xml.";
+                                // test commet for git    
                             }
                         
                     }
