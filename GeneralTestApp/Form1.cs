@@ -65,6 +65,7 @@ namespace GeneralTestApp
                             {
                                 ErrString += "Journal Name not matching In Xml.";
                                 // test commet for git    
+                                // 3rd commment
                                 // test commet for git     second comment on 17th oct
                             }
                         
